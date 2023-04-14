@@ -1,2 +1,2 @@
 # Estructura-de-HTML
-Desafio de un pagina basada en HTML
+Desafio de un página basada en HTML
