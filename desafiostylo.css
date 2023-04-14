@@ -1,0 +1,28 @@
+
+
+
+
+
+
+form{
+    width: 300px;
+    padding: 16px;
+    border-radius: 10px; 
+    margin: 0 auto;
+    background-color: rgb(117, 141, 161);
+}
+
+form label{
+    width: 70px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+form input[type="password"],
+form input[type="email"]{
+    width: 180 px;
+    padding: 3px 10px;
+    border: 1px solid chocolate;
+    border-radius: 3px;
+    margin: 8px;
+}
